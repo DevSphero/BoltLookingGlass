@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-/Users/edgde01/Google Drive/CES_LookingGlass/Builds/1213B/CESLookingGlassDemo.exe
+/Users/edgde01/Google Drive/CES_LookingGlass/Builds/BOLT1213C/CESLookingGlassDemo.exe
 SceneListBegin?
 Assets/Scenes/Bolt.unity
 SceneListEnd?
@@ -189,3 +189,50 @@ b12508de8061fc30c785ac01869eb6af Assembly-CSharp.dll:HyperbitArsenal.HyperbitLig
 93307bd34e39d73fd24e00ec39c25a91 Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 2accd79fb8d0b011e6c6ecbcdef614ae Assembly-CSharp.dll:HoloPlay.Extras.OnViewRenderTest
 2f857294e7ebd6f2ab64b726c7cb76af Assembly-CSharp.dll:HyperbitArsenal.HyperbitLoopScript
+c93e04c6ca39129755f17642068783ed Assembly-CSharp.dll:Leap.Unity.ConnectionMonitor
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:Leap.Unity.HandEnableDisable
+86e6fc944232819df47ff826133fcd92 Assembly-CSharp.dll:Leap.Unity.Animation.TransformTweenBehaviour
+a9c202186fc1480e6b87e42b417ee0ca Assembly-CSharp.dll:Leap.Unity.SkeletalFinger
+556f390a640d4398e5782de0c7f17a23 Assembly-CSharp.dll:Leap.Unity.PinchDetector
+fd98692db6ec98f5399c4769bf128611 Assembly-CSharp.dll:Leap.Unity.Detector
+2fdf7029661b28069a76f3e80b4717bf Assembly-CSharp.dll:Leap.Unity.Attachments.AttachmentHandEnableDisable
+13ac65096ed14fcf3e89a024ebeb2f5c Assembly-CSharp.dll:Leap.Unity.Examples.ProjectionPostProcessProvider
+dc6186ebb8dcd258c6e84bc4aa60a445 Assembly-CSharp.dll:Leap.Unity.RiggedHand
+23fd3823bee0392045068afcb906d9de Assembly-CSharp.dll:Leap.Unity.RuntimeGizmos.RuntimeGizmoManager
+755a22672ba75f145b7d424aecab47fb Assembly-CSharp.dll:Leap.Unity.LeapTestProvider
+41f7f8435dc5d2cdf102b7ef9bdbfea9 Assembly-CSharp.dll:Leap.Unity.Space.LeapSphericalSpace
+59da547a897b7254b39c8046c219e1ac Assembly-CSharp.dll:Leap.Unity.PalmDirectionDetector
+6aa6abf5179c9b70e6394a949f994a2a Assembly-CSharp.dll:Leap.Unity.ProximityDetector
+87f017d03f98010c7df04f35dbe06e1d Assembly-CSharp.dll:Leap.Unity.FrameRateControls
+dc6e1319a8cb20caa93899ce3d897263 Assembly-CSharp.dll:Leap.Unity.Attachments.AttachmentPointBehaviour
+ecc1ec872806501e3b7977c609f1ff5a Assembly-CSharp.dll:Leap.Unity.LeapImageRetriever
+946b71c2c893531915f577ba85f28b81 Assembly-CSharp.dll:Leap.Unity.Attachments.AttachmentHands
+79ae1a2daa5af3876857e6f0dbc6c225 Assembly-CSharp.dll:Leap.Unity.FpsLabel
+c42ed4dea83cd6f16ac9b50a46d19a31 Assembly-CSharp.dll:Leap.Unity.Space.LeapSpaceAnchor
+77ac23a0103d3974146f1c881e277816 Assembly-CSharp.dll:Leap.Unity.Examples.InertiaPostProcessProvider
+8c5748c6964b4854e389adb6fc62cca8 Assembly-CSharp.dll:Leap.Unity.EnableDepthBuffer
+473b7fcf04beaf85abff99ea2120f9a9 Assembly-CSharp.dll:Leap.Unity.RiggedFinger
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:Leap.Unity.HandDrop
+e72177fd77265dfeaf19d79af3679f0a Assembly-CSharp.dll:Leap.Unity.RigidHand
+2775c069d3bf01886532bb3e57d343f7 Assembly-CSharp.dll:Leap.Unity.KeyEnableGameObjects
+1bd4b9ca955e76278e01c919bf1db546 Assembly-CSharp.dll:Leap.Unity.LeapEyeDislocator
+e6455a53408cb7b5a036dd7a0921c7a9 Assembly-CSharp.dll:Leap.Unity.RuntimeGizmos.RuntimeColliderGizmos
+dfb0eead07c38a41a14f5a0c8ca51514 Assembly-CSharp.dll:Leap.Unity.DebugHand
+c0ce367ab27e76da163ce61471e1e9e4 Assembly-CSharp.dll:Leap.Unity.FingerDirectionDetector
+16e5cc8d42a6655de8a368fd9f70c452 Assembly-CSharp.dll:Leap.Unity.HandModelManager
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:Leap.Unity.RuntimeGizmos.RuntimeGizmoToggle
+9f007a520982cd5d7bbb294b39f15274 Assembly-CSharp.dll:Leap.Unity.XRHeightOffset
+46b800323650d0ac2e6718103cc51113 Assembly-CSharp.dll:Leap.Unity.CapsuleHand
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:Leap.Unity.Animation.Internal.TweenRunner
+ccb704df25a5245ffefed1a88d1f9f23 Assembly-CSharp.dll:Leap.Unity.LeapServiceProvider
+41f7f8435dc5d2cdf102b7ef9bdbfea9 Assembly-CSharp.dll:Leap.Unity.Space.LeapCylindricalSpace
+6f649939be925aef23f2214ef149e6f4 Assembly-CSharp.dll:Leap.Unity.DisconnectionNotice
+e676a14721e4a821b0b08cd4b81b52fa Assembly-CSharp.dll:Leap.Unity.ExtendedFingerDetector
+e04473311b2d652c0e4e877b5cb5b66f Assembly-CSharp.dll:Leap.Unity.Comment
+8185504ab39070ae36c555d690c9a1fd Assembly-CSharp.dll:Leap.Unity.SkeletalHand
+9dff9b8d35e6d6fa26b99b202de536f6 Assembly-CSharp.dll:Leap.Unity.RigidFinger
+681548311a1d4d82f5696e284207034e Assembly-CSharp.dll:Leap.Unity.Attachments.AttachmentHand
+b249baf0a784f9d277eb76a293fa4692 Assembly-CSharp.dll:Leap.Unity.LeapXRServiceProvider
+e15b09d0ab66c568392c25a1a30c8bc3 Assembly-CSharp.dll:Leap.Unity.DetectorLogicGate
+0e1c743f39d1272556d4a29827d87fab Assembly-CSharp.dll:Leap.Unity.KeyEnableBehaviors
+e8d6d906ad5bceeee2319002ac6cccac Assembly-CSharp.dll:Leap.Unity.StationaryTestLeapProvider
