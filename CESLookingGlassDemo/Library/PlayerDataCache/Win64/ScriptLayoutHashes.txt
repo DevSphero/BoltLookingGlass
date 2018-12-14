@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-/Users/edgde01/Google Drive/CES_LookingGlass/Builds/Bolt1214A/CESLookingGlassDemo.exe
+/Users/edgde01/Google Drive/CES_LookingGlass/Builds/BOLT1214C/CESLookingGlassDemo.exe
 SceneListBegin?
 Assets/Scenes/Bolt.unity
 SceneListEnd?
